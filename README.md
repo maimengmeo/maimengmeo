@@ -1,10 +1,14 @@
-[![MasterHead](https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif)](https://rishavchanda.io)
+<img align="center" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif"/>
 <h1 align="center">Hi 👋, I'm Mai</h1>
 <h3 align="center">Constantly learning, experimenting, and pushing boundaries.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/cute-cat-sitting-on-laptop-260nw-1453678082.jpg"/>
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/donxgudgk/image/upload/v1683748870/cute-cat-sitting-on-laptop-260nw-1453678082_1_igtpil.jpg"/>
+
+
 
 - 🌱 I’m currently learning **React with Redux**
+
+- 🔭 I’m currently working on **React with API**
 
 - 📫 How to reach me **mai291294@gmail.com**
 
