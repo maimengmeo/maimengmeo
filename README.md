@@ -1,4 +1,7 @@
-<img align="center" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif"/>
+<div align="center">
+<img src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Mai</h1>
 <h3 align="center">Constantly learning, experimenting, and pushing boundaries.</h3>
 
