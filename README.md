@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/donxgudgk/image/upload/v1683748870/cute-cat-sitting-on-laptop-260nw-1453678082_1_igtpil.jpg"/>
-🌱 I’m currently learning <b>**React with Redux**</b><br><br>🔭 I’m currently working on <b>**React with Navigation and Routing Systems**</b><br><br>💜 Passionate about creating elegant and practical apps.<br><br>📫 How to reach me <b>**mai291294@gmail.com**</b>
+🌱 I’m currently learning <b>**React with Redux**</b><br><br>🔭 I’m currently working on <b><a href="https://github.com/maimengmeo/React-Nav-And-Routing">**React with Navigation and Routing Systems**</a></b><br><br>💜 Passionate about creating elegant and practical apps.<br><br>📫 How to reach me <b>**mai291294@gmail.com**</b>
 
 
 
